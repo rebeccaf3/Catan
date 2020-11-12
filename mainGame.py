@@ -11,7 +11,7 @@ BLUE = (0, 0, 255) #player3
 ORANGE = (255,165,0) #player4
 BLACK = (0, 0, 0) #outline
 WHITE = (255, 255, 255) #background
-numList = [11,12,9,4,6,5,10,3,11,4,8,8,10,9,3,5,2,6] #probabilies in order
+numList = [11,12,9,4,6,5,10,3,11,4,8,8,10,9,3,5,2,6] #tile probabilities in order
 RESOURCEOPTIONS = ["wood","wheat","brick","sheep","ore"]
 RESOURCECOLOURS = [BROWN,YELLOW,RED,GREEN,GREY]
 
